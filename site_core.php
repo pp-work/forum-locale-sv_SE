@@ -291,7 +291,7 @@ $Definition['Connect'] = 'Koppla upp';
 $Definition['ConnectAccountExists'] = 'Du har redan ett konto här.';
 $Definition['ConnectChooseName'] = 'Välj ett namn att identifiera dig med på sajten.';
 $Definition['ConnectCreateAccount'] = 'Lägg till info &amp; skapa konto';
-$Definition['ConnectExistingPassword'] = 'Ange ditt nuvarande kontolösenord.';
+$Definition['ConnectExistingPassword'] = 'Tack! Vi har nu verifierat ditt konto i PirateWeb.<br />Vi har upptäckt att du redan har ett konto på forumet med samma e-mailadress och vill därför koppla ihop ditt inlogg med detta konto. Vänligen verifiera att du är ägare till forumkontot nedan genom att ange ditt forum-lösenord till kontot.';
 $Definition['Connecting...'] = 'Kopplar upp...';
 $Definition['Connection'] = 'Uppkoppling';
 $Definition['ConnectLeaveBlank'] = 'Lämna blankt såvida du inte kopplar till ett existerande konto.';
@@ -929,19 +929,19 @@ $Definition['TermsOfServiceText'] = '
    oriented, threatening, invasive of a person\'s privacy, or otherwise violative
    of any law. You agree not to post any copyrighted material unless the
    copyright is owned by you.</p>
-   
+
    <p>We at this community also reserve the right to reveal your identity (or
    whatever information we know about you) in the event of a complaint or legal
    action arising from any message posted by you. We log all internet protocol
    addresses accessing this web site.</p>
-   
+
    <p>Please note that advertisements, chain letters, pyramid schemes, and
    solicitations are inappropriate on this community.</p>
-   
+
    <p>We reserve the right to remove any content for any reason or no reason at
    all. We reserve the right to terminate any membership for any reason or no
    reason at all.</p>
-   
+
    <p>You must be at least 13 years of age to use this service.</p>
 ';
 $Definition['Text  Max  Length'] = 'Text  Max  Längd';
