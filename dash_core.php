@@ -21,7 +21,7 @@ $Definition['%s years.'] = '%s år.';
 
 $Definition['(less)'] = '(mindre)';
 $Definition['(more)'] = '(mer)';
-$Definition['(YYYY-mm-dd)'] = '(YYYY-mm-dd)';
+$Definition['(YYYY-mm-dd)'] = '(ÅÅÅÅ-mm-dd)';
 
 $Definition['. The community forum is what all of your users &amp; customers will see when they visit '] = '. Communityns forum är det alla dina användare och kunder kommer att se när de besöker';
 
@@ -151,13 +151,13 @@ $Definition['Badge Name'] = 'Namn';
 $Definition['Badge Requests'] = 'Förfrågningar för emblem';
 $Definition['BadgeRecipientsHeading'] = 'Senaste mottagare';
 $Definition['Ban Item'] = 'Objekt';
-$Definition['Ban List'] = 'Svartlista';
+$Definition['Ban List'] = 'Bannlysningar';
 $Definition['Ban Type'] = 'Typ';
 $Definition['Banner'] = 'Sidhuvud';
 $Definition['Banner Logo'] = 'Logo i sidhuvud';
 $Definition['Banner Title'] = 'Titel i sidhuvud';
-$Definition['Banning'] = 'Svartlista';
-$Definition['Banning Options'] = 'Alternativ för svartlistning';
+$Definition['Banning'] = 'Bannlys';
+$Definition['Banning Options'] = 'Alternativ för bannlysning';
 $Definition['Basic'] = 'Grundläggande';
 $Definition['Basic Information'] = 'Grundläggande information';
 $Definition['Before'] = 'Före';
@@ -386,6 +386,11 @@ $Definition['FileUpload is currently OFF'] = 'FileUpload är för närvarande AV
 $Definition['FileUpload is currently ON'] = 'FileUpload är för närvarande PÅ';
 $Definition['Finished'] = 'Färdig';
 $Definition['First Visit'] = 'Första besök';
+$Definition['Flagged Content'] = 'Flaggat innehåll';
+$Definition['Flagged Items'] = 'Flaggade föremål';
+$Definition['Flagging Settings'] = 'Flaggningsinställningar';
+$Definition['FlaggedContent'] = 'Följande innehåll har flaggats av användare för kontroll av moderator.';
+$Definition['FlagQueueEmpty'] = 'Inga föremål behöver modereras just nu.';
 $Definition['Flood Control'] = 'Flood-kontroll';
 $Definition['For information on how to enable realtime progress bars, check out <a href="http://php.net/manual/en/book.apc.php">Alternative PHP Cache (APC)</a>'] = 'För information om att aktivera realtidsstaplar, kolla <a href="http://php.net/manual/en/book.apc.php">Alternative PHP Cache (APC)</a>';
 $Definition['For SEO purposes, search engine crawlers are excluded from being forced to view the forum in the remote url.'] = 'För SEO ändamål, är sökrobotar uteslutna från att tvingas se forumet i fjärrläsare.';
@@ -418,7 +423,7 @@ $Definition['Generate'] = 'Generera';
 $Definition['Generate Client ID and Secret'] = 'Generera klient-ID och hemlig kod';
 $Definition['Generate sphinx.conf'] = 'Generera sphinx.conf';
 $Definition['Get More Applications'] = 'Skaffa fler applikationer';
-$Definition['Get more information on creating custom routes'] = 'Skaffa mer information om att skapa anpassade roller';
+$Definition['Get more information on creating custom routes'] = 'Läs mer om att skapa anpassade roller';
 $Definition['Get More Plugins'] = 'Skaffa fler plugins';
 $Definition['Get More Themes'] = 'Skaffa fler teman';
 $Definition['Get the ball rolling in your community by '] = 'Sparka igång din community genom att';
@@ -504,6 +509,10 @@ $Definition['JS Connect Settings'] = 'Inställningar för JS Connect';
 $Definition['jsConnect Client Libraries'] = 'jsConnect klientbibliotek';
 $Definition['jsConnect Documentation'] = 'jsConnect dokumentation';
 
+$Definition['Keep current password.'] = 'Behåll nuvarande lösenord.';
+$Definition['Force user to reset their password and send email notification.'] = 'Tvinga användaren att återställa lösenord och skicka mejlnotifiering.';
+$Definition['Manually set user password. No email notification.'] = 'Sätt lösenord manuellt. Ingen mejlnotifiering.';
+
 $Definition['Key Type'] = 'Nyckeltyp';
 $Definition['Key Value'] = 'Nyckelvärde';
 $Definition['Kick-start your community and increase user engagement.'] = 'Sparka igång din community och öka användarnas deltagande.';
@@ -542,7 +551,7 @@ $Definition['Manage Categories'] = 'Hantera kategorier';
 $Definition['Manage Messages'] = 'Hantera meddelanden';
 $Definition['Manage Plugins'] = 'Hantera Plugins';
 $Definition['Manage Roles & Permissions'] = 'Hantera roller och rättigheter';
-$Definition['Manage Routes'] = 'Hantera Rutter';
+$Definition['Manage Routes'] = 'Hantera URL-alias';
 $Definition['Manage Spam'] = 'Hantera Spam';
 $Definition['Manage Themes'] = 'Hantera teman';
 $Definition['Manage Users'] = 'Hantera användare';
@@ -614,7 +623,7 @@ $Definition['On'] = 'På';
 $Definition['One, two, three...'] = 'ett, två, tre...';
 $Definition['Only Allow Each User To Post'] = 'Tillåt endast varje användare att göra inlägg';
 $Definition['Only display on mobile browsers.'] = 'Visa endast i mobila webbläsare.';
-$Definition['Operation By'] = 'By';
+$Definition['Operation By'] = 'Av';
 $Definition['Or Spamblock For'] = 'Eller Spamblock för';
 $Definition['Organize'] = 'Organisera';
 $Definition['Organize Categories'] = 'Organisera kategorier';
@@ -716,14 +725,14 @@ $Definition['Roles determine user\'s permissions.'] = 'Varje användare i forume
 $Definition['Route'] = 'URL-alias';
 $Definition['Route Expression'] = 'URL-alias, reguljärt uttryck';
 $Definition['Routes'] = 'URL-alias';
-$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Rutter kan användas för att omdirigera användare till olika delar av din webbplats beroende på webbadressen.';
+$Definition['Routes can be used to redirect users to various parts of your site depending on the url.'] = 'Alias kan användas för att omdirigera användare till olika delar av din webbplats beroende på webbadressen.';
 $Definition['Run structure & data scripts'] = 'Kör struktur- & datascripts';
 
 $Definition['Save Captured Definitions'] = 'Spara Fångade Definitioner';
 $Definition['Save Translations from a Locale Pack'] = 'Spara översättningar från ett språkpaket';
 $Definition['Saved'] = 'Dina ändringar har sparats.';
 $Definition['SaveLocalePack'] = 'Spara';
-$Definition['Search by user or role.'] = 'Search for users by name or enter the name of a role to see all users with that role.';
+$Definition['Search by user or role.'] = 'Sök efter användare eller roll.';
 $Definition['Search for users by name or enter the name of a role to see all users with that role.'] = 'Sök efter användare via namn eller skriv in namnet på en roll för att se alla användare som har den rollen.';
 
 $Definition['seconds'] = 'sekunder';
@@ -741,6 +750,8 @@ $Definition['Send Invitations!'] = 'Skicka inbjudningar!';
 $Definition['Send users a welcome email.'] = 'Skicka ett välkomstbrev till användare.';
 $Definition['Sent To'] = 'Skicka till';
 $Definition['Serialized column "%s" failed to be unserialized.'] = 'Serie kolumnen "%s" misslyckades att oserialisera.';
+$Definition['Share Image'] = 'Dela bild';
+$Definition['ShareImageDescription'] = 'När någon delar en länk från din sajt försöker få ta en bild från sidan. Om det inte finns en bild på sidan så kommer vi att använda denna bild istället. Bilden bör bara minst 50x50, men vi rekommenderar 200x200.';
 $Definition['Show all possible pocket locations.'] = 'Turn this option on to show all possible pocket locations. Turning on this option will only show the locations to users that can manage pockets.';
 $Definition['Show Pocket Locations'] = 'Visa platser för fickor';
 $Definition['Sign in'] = 'Logga in';
@@ -796,9 +807,8 @@ $Definition['The addon has already been downloaded.'] = 'Tillägget har redan la
 $Definition['The banner logo appears at the top of your forum.'] = 'Logon visas i sidhuvudet på ditt forum.';
 $Definition['The banner title appears on the top-left of every page.'] = 'Rubriken i sidhuvudet syns högst upp till vänster på varje sida.';
 $Definition['The banner title appears on the top-left of every page. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages.'] = 'Titeln visas i sidhuvudet i övre vänstra hörnet på varje sida. Om du laddar upp en logo ersätter den titeln på offentliga forumsidor.';
-$Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'The banner title appears on your site\'s banner and in your browser\'s title bar. It should be less than 20 characters. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages. Also, keep in mind some themes may also hide this title.';
-$Definition['The banner title appears on your site\'s banner and in your browswer\'s title bar.'] = 'The banner title appears on your site\'s banner and in your browswer\'s title bar. It should be less than 20 characters. If a banner logo is uploaded, it will replace the banner title on user-facing forum pages. Also, keep in mind some themes may also hide this title.';
-$Definition['The basic registration form requires that new users copy text from a "Captcha" image to help prevent spam.'] = '<strong>The basic registration form requires</strong> that new users copy text from a "Captcha" image to keep spammers out of the site. You need an account at <a href="http://recaptcha.net/">recaptcha.net</a>. Signing up is FREE and easy. Once you have signed up, come back here and enter the following settings:';
+$Definition['The banner title appears on your site\'s banner and in your browser\'s title bar.'] = 'Visas i din webbläsares namnlist och eventuell längst upp på alla sidor. Om en logotyp laddas upp så kommer denna att ersätta rubriken på sidor som riktar sig mot besökare. Kom ihåg att vissa teman kan dölja denna titel.';
+$Definition['Captcha Explanation'] = '<strong>Det grundläggande registreringsformuläret kräver</strong> att nya medlemmar kopierar text från en "Captcha"-bild för att hålla spammare borta från sajten. Du behöver ett konto på <a href="http://recaptcha.net/">recaptcha.net</a>. Att registrera sig är gratis och enkelt. När du registrerat dig, kom tillbaka hit och ange följande inställningar:';
 $Definition['The Basics'] = 'Grunderna';
 $Definition['The behind-the-scenes URL that shares identity information with Vanilla'] = 'Den URL som delar identitetsinformation med Vanilla bakom kulisserna';
 $Definition['The client ID uniqely identifies the site.'] = 'The client ID uniqely identifies the site. You can generate a new ID with the button at the bottom of this page.';
@@ -807,9 +817,8 @@ $Definition['The database user you specified does not have permission to access 
 <code>%s</code>';
 $Definition['The default role has not been configured.'] = 'Den ordinarie rollen har inte konfigurerats.';
 $Definition['The Disqus plugin allows users to sign in using their Disqus account.'] = 'The Disqus plugin allows users to sign in using their Disqus account. <b>You must register your application with Disqus for this plugin to work.</b>';
-$Definition['The following content has been flagged by users for moderator review.'] = 'Följande innehåll har flaggats av användare för kontroll av moderator.';
 $Definition['The following structure changes are required for your database.'] = 'Följande strukturförändringar krävs för din databas.';
-$Definition['The homepage title is displayed on your home page.'] = 'The homepage title is displayed on your home page. Pick a title that you would want to see appear in search engines.';
+$Definition['The homepage title is displayed on your home page.'] = 'Hemsidans titel visas på din hemsida. Välj en titel som du vill ska synas i sökmotorer.';
 $Definition['The homepage was saved successfully.'] = 'Hemsidan sparades.';
 $Definition['The import file does not contain any data.'] = 'Importfilen innehåller ingen data.';
 $Definition['The import file is not in the correct format.'] = 'Importfilen är i fel format.';
@@ -848,7 +857,6 @@ $Definition['Themes'] = 'Teman';
 $Definition['Theming Overview'] = 'Översikt över teman';
 $Definition['There are currently no applicants.'] = 'Det finns för tillfället inga ansökningar.';
 $Definition['There are no database structure changes required. There may, however, be data changes.'] = 'Inga ändringar av databasstrukturen krävs. Det kan däremot bli ändringar av data.';
-$Definition['There are no items awaiting moderation at this time.'] = 'Inga objekt behöver modereras just nu.';
 $Definition['There is already an account in this forum using your email address. Please create a new account, or enter the credentials for the existing account.'] = 'Det finns redan ett konto på detta forum med din e-postadress. Vänligen skapa ett nytt konto eller skriv in uppgifterna för det befintliga kontot.';
 $Definition['These are the settings you might need when you configure ProxyConnect on your remote website.'] = 'Detta är inställningar du kan behöva när du ställer in ProxyConnect på din externa webbsajt.';
 $Definition['This action cannot be undone.'] = 'Detta kan inte ångras.';
@@ -866,7 +874,7 @@ $Definition['This plugin allows users to sign in with OpenID. <b>Make sure you c
 $Definition['This plugin allows users to sign in with their Google accounts. <b>Make sure you click Settings after enabling this plugin to enable Google signin</b>.'] = 'Detta plugin möjliggör inloggning med användarens Google-konto. <b>Du måste klicka på inställningar efter att du har aktiverat detta plugin, för att aktivera Google Signin</b>.';
 $Definition['This plugin enables uploading files and attaching them to discussions and comments.'] = 'Detta plugin möjliggör uppladdning av filer och att bifoga dem till diskussioner eller kommentarer.';
 $Definition['This show the plugin on only selected discussion pages'] = 'Detta visar denna plugin endast på utvalda diskussionssidor';
-$Definition['This theme has additional options.'] = 'This theme has additional options on the %s page.';
+$Definition['This theme has additional options.'] = 'Detta tema har ytterligare inställningsmöjligheter på sidan %s.';
 $Definition['This theme has customizable text.'] = 'Det här temat har text som du kan anpassa.';
 $Definition['This will show the panel on every page.'] = 'Detta visar panelen på varje sida.';
 $Definition['Thumbnails'] = 'Tumnaglar';
@@ -883,7 +891,7 @@ $Definition['Twitter Connect allows users to sign in using their Twitter account
 
 $Definition['Unable to detect PHP GD installed on this system. Vanilla requires GD version 2 or better.'] = 'Kunde inte hitta PHP GD installerat på det här systemet. Vanilla kräver GD med version 2 eller senare.';
 $Definition['Unable to initialize plugin: required connectivity libraries not found, need either \'fsockopen\' or \'curl\'.'] = 'Kunde inte initiera plugin: Nödvändiga bibliotek hittades inte, behöver antingen \'fsockopen\' eller \'curl\'.';
-$Definition['Unban'] = 'Ta bort från svartlista';
+$Definition['Unban'] = 'Ta bort bannlysning';
 $Definition['Uninvite'] = 'Avbryt inbjudan';
 $Definition['Universal Code'] = 'Universell kod';
 
@@ -896,7 +904,7 @@ $Definition['Use Categories'] = 'Använd kategorier';
 $Definition['Use categories to organize discussions'] = 'Använd kategorier för att organisera diskussioner';
 $Definition['Use delta indexes'] = 'Use delta indexes (recommended for massive sites)';
 $Definition['Use Facebook names for usernames.'] = 'Använd Facebook-namn som användarnamn';
-$Definition['Use the content at this url as your homepage.'] = 'Choose the page people should see when they visit: <strong style="white-space: nowrap;">%s</strong>';
+$Definition['Use the content at this url as your homepage.'] = 'Välj sidan folk ska se när de besöker: <strong style="white-space: nowrap;">%s</strong>';
 $Definition['Use the plugin for WordPress or our universal code for any other platform'] = 'Use the WordPress plugin to set up Vanilla Comments on your blog, or use the universal code to set up Vanilla Comments on any other platform.';
 $Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype ID", "Favorite Dinosaur", etc. Be creative!'] = 'Använd dessa fält för att skapa anpassad profilinformation. Du kan skriva in saker som "Civilstatus", "Skype-ID", "Favoritdinosaurie" etc. Var kreativ!';
 $Definition['Use these fields to create custom profile information. You can enter things like "Relationship Status", "Skype", or "Favorite Dinosaur". Be creative!'] = 'Använd dessa fält för att skapa anpassad profilinformation. Du kan skriva in saker som "Civilstatus", "Skype-ID", "Favoritdinosaurie" etc. Var kreativ!';
@@ -925,9 +933,11 @@ $Definition['Vanilla Export: %s, Source: %s'] = 'Vanilla-export: %s, Källa: %s'
 $Definition['Vanilla is installed!'] = 'Vanilla är installerat!';
 $Definition['Vanilla Sphinx Help'] = 'Vanillas Sphinx-hjälp';
 $Definition['Vanilla Statistics are currently disabled'] = 'Vanilla Statistics är för tillfället inaktiverat';
-$Definition['Vanilla.Archive.Description'] = 'You can choose to archive forum discussions older than a certain date. Archived discussions are effectively closed, allowing no new posts.';
-$Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Place nested categories in a comma-delimited list when they are %1$s';
+$Definition['Vanilla.Archive.Description'] = 'Du kan välja att arkivera forumdiskussioner som är äldre än ett visst datum. Arkiverade diskussioner är stängda och tillåter inga nya inlägg.';
+$Definition['Vanilla.Categories.MaxDisplayDepth'] = 'Placera nästlade kateagorier i en kommaseparerad lista när de är %1$s';
+$Definition['Vanilla.Moderation.FilterBy'] = 'Visa modereringskö för %1$s';
 $Definition['Verified!'] = 'Bekräftad!';
+$Definition['Verified Label'] = 'Bekräftad. Går förbi spam- och förmodereringsfilter.';
 $Definition['Version'] = 'Version';
 
 $Definition['version %s'] = 'version %s';
@@ -968,12 +978,12 @@ $Definition['You are connected as %s.'] = 'Du är uppkopplad som %s.';
 $Definition['You are now signed in.'] = 'Du är nu inloggad.';
 $Definition['You are previewing the %s theme.'] = 'Du förhandsvisar temat %s.';
 $Definition['You can also ban the users that posted the spam and delete all of their posts.'] = 'Check the box next to the user that posted the spam to also ban them and delete all of their posts. <b>Only do this if you are sure these are spammers.</b>';
-$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'If you are ever locked out of your forum you can always log in using your original Vanilla email and password at <a href="%1$s">%1$s</a>';
-$Definition['You can ban IP addresses, email domains, and words from usernames using this tool.'] = 'Du kan svartlista IP-adresser, e-postdomäner och ord från användarnamn genom att använda detta verktyg.';
+$Definition['You can always use your password at<a href="%1$s">%1$s</a>.'] = 'Om du skulle bli utelåst från ditt forum kan du alltid logga in med dina ursprungliga Vanilla-kontouppgifter (epostadress och lösenord) på <a href="%1$s">%1$s</a>';
+$Definition['You can ban IP addresses, email domains, and words from usernames using this tool.'] = 'Du kan bannlysa IP-adresser, e-postdomäner och ord från användarnamn genom att använda detta verktyg.';
 $Definition['You can connect to multiple sites that support jsConnect.'] = 'Du kan koppla upp dig mot många sajter som stödjer jsConnect.';
 $Definition['You can customize the HTML and CSS for this theme on the %s page.'] = 'Du kan anpassa HTML och CSS för det här temat på sidan %s.';
 $Definition['You can either create a new account, or enter your credentials if you have an existing account.'] = 'Du kan antingen skapa ett nytt konto, eller skriva in dina inloggningsuppgifter om du har ett befintligt konto.';
-$Definition['You can make the categories page your homepage.'] = 'You can make your categories page your homepage <a href="%s">here</a>.';
+$Definition['You can make the categories page your homepage.'] = 'Du kan göra kategorisidan till din förstasida <a href="%s">här</a>.';
 $Definition['You can place files in your /uploads folder.'] = 'If your file is too
 		large to upload directly to this page you can place it in your /uploads
 		folder. Make sure the filename begins with the word <b>export</b> and ends
