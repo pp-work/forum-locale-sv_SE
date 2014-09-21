@@ -512,7 +512,7 @@ $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} svarade på <a hr
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Startade en ny tråd. <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} nämnde dig i <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} ändrade profilbilden för {ActivityUserID,user}.';
-$Definition['HeadlineFormat.Registration'] = '{ActivityUserID, du} gick med';
+$Definition['HeadlineFormat.Registration'] = '{ActivityUserID,You} gick med';
 $Definition['HeadlineFormat.Unban'] = '{RegardingUserID,You} tog bort bannlysningen av {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Warning'] = '{ActivityUserID,You} varnade {RegardingUserID,you}.';
 $Definition['her'] = 'hennes';
