@@ -9,4 +9,4 @@ $LocaleInfo['vf_sv_SE'] = array (
   'AuthorUrl' => 'https://www.transifex.com/projects/p/vanilla/language/sv_SE/',
 );
 
-setlocale(LC_TIME, 'sv_SE.UTF-8');
+setlocale(LC_TIME, 'sv_SE.UTF-8', 'sv_SE.utf8', 'sv_SE', 'sv');
