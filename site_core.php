@@ -105,8 +105,8 @@ $Definition['Activity.BookmarkComment.ProfileHeadline'] = '%1$s kommenterade på
 $Definition['Activity.Comment'] = 'Kommentarer';
 $Definition['Activity.CommentMention.FullHeadline'] = '%1$s nämnde %3$s i en %8$s.';
 $Definition['Activity.CommentMention.ProfileHeadline'] = '%1$s nämnde %3$s i en %8$s.';
-$Definition['Activity.ConversationMessage.FullHeadline'] = '%1$s har skickat dig en %8$s.';
-$Definition['Activity.ConversationMessage.ProfileHeadline'] = '%1$s har skickat dig en %8$s.';
+$Definition['Activity.ConversationMessage.FullHeadline'] = '%1$s har skickat dig ett %8$s';
+$Definition['Activity.ConversationMessage.ProfileHeadline'] = '%1$s har skickat dig ett %8$s';
 $Definition['Activity.Default.FullHeadline'] = 'Activity.Default.FullHeadline';
 $Definition['Activity.Default.ProfileHeadline'] = 'Activity.Default.ProfileHeadline';
 $Definition['Activity.DiscussionComment.FullHeadline'] = 'Activity.DiscussionComment.FullHeadline';
@@ -509,6 +509,7 @@ $Definition['he'] = 'han';
 $Definition['HeadlineFormat.Badge'] = '{ActivityUserID,You} förvärvade emblemet <a href="{Url,html}">{Data.Name,text}</a>.';
 $Definition['HeadlineFormat.Ban'] = '{RegardingUserID,You} bannlyste {ActivityUserID,you}.';
 $Definition['HeadlineFormat.Comment'] = '{ActivityUserID,user} svarade på <a href="{Url,html}">{Data.Name,text}</a>';
+$Definition['HeadlineFormat.ConversationMessage'] = '{ActivityUserID,User} skickade dig ett <a href="{Url,html}">meddelande</a>';
 $Definition['HeadlineFormat.Discussion'] = '{ActivityUserID,user} Startade en ny tråd. <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.Mention'] = '{ActivityUserID,user} nämnde dig i <a href="{Url,html}">{Data.Name,text}</a>';
 $Definition['HeadlineFormat.PictureChange.ForUser'] = '{RegardingUserID,You} ändrade profilbilden för {ActivityUserID,user}.';
