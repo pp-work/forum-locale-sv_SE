@@ -566,6 +566,7 @@ $Definition['Keep User Content'] = 'Behåll användarens innehåll';
 $Definition['Label'] = 'Etikett';
 $Definition['Last Active'] = 'Senast aktiv';
 $Definition['Last IP'] = 'senast IP';
+$Definition['Latest: %1$s'] = 'Senaste: %1$s';
 $Definition['Latest %1$s'] = 'Senaste %1$s';
 $Definition['Latest Post'] = 'Senaste inlägg';
 $Definition['Leaders'] = 'Ledare';
