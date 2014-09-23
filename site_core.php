@@ -67,6 +67,7 @@ $Definition['%s view html'] = '%s visning';
 $Definition['%s views html']  = '%s visningar';
 $Definition['%s votes'] = '%s röster';
 $Definition['%s was removed from the %s and added to the %s'] = '%s togs bort från %s och lades till %s';
+$Definition['%s wrote'] = '%s skrev';
 $Definition['%s WTFs'] = '%s WTF';
 
 $Definition['(empty message)'] = '(tomt meddelande)';
