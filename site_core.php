@@ -76,6 +76,8 @@ $Definition['+%s Guests'] = '+%s gäster';
 
 $Definition[' - Page %s'] = '- Sida %s';
 
+$Definition['1 hour'] = '1 timme';
+$Definition['4 hours'] = '4 timmar';
 $Definition['1 message'] = '1 meddelande';
 
 $Definition['<General Error>'] = '<General Error>';
