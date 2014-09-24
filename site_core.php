@@ -462,6 +462,7 @@ $Definition['FileSize'] = 'FileSize';
 $Definition['First Anniversary'] = 'Första årsdagen';
 $Definition['First Comment'] = 'Första svar';
 $Definition['Flag'] = 'Flagga';
+$Definition['FlagSent'] = 'Ditt klagomål har registrerats.';
 $Definition['Follow'] = 'Följ';
 $Definition['Follow %s'] = 'Följ %s';
 $Definition['Followed by %d people'] = 'Följs av %d personer';
