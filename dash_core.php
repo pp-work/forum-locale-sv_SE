@@ -53,6 +53,8 @@ $Definition['_Locale'] = 'Språkpaket';
 
 $Definition['a Badge'] = 'ett emblem';
 $Definition['a full year.'] = 'ett helt år.';
+$Definition['and %s other'] = 'och %s annan';
+$Definition['and %s others'] = 'och %s andra';
 
 $Definition['A message has been sent to your email address with password reset instructions.'] = 'Ett meddelande har sänts till din e-postadress med instruktioner för hur du återställer lösenordet.';
 $Definition['A url-friendly version of the category name for better SEO.'] = 'En URL-vänlig version av kategorinamnet för bättre SEO.';
