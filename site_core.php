@@ -566,7 +566,7 @@ $Definition['Keep User Content'] = 'Behåll användarens innehåll';
 
 $Definition['Label'] = 'Etikett';
 $Definition['Last Active'] = 'Senast aktiv';
-$Definition['Last IP'] = 'senast IP';
+$Definition['Last IP'] = 'Senaste IP';
 $Definition['Latest: %1$s'] = 'Senaste: %1$s';
 $Definition['Latest %1$s'] = 'Senaste %1$s';
 $Definition['Latest Post'] = 'Senaste inlägg';
@@ -796,7 +796,7 @@ $Definition['RecipientUserID'] = 'mottagare';
 $Definition['Redirecting...'] = 'Skickar vidare...';
 $Definition['Refetch Page'] = 'Hämta om sida';
 $Definition['Register'] = 'Registrera dig';
-$Definition['Register IP'] = 'Registrera IP';
+$Definition['Register IP'] = 'Registrerings-IP';
 $Definition['Register with %s'] = 'Registrera dig';
 $Definition['Registration  Fields'] = 'Registrering  Fält';
 $Definition['Registration URL'] = 'URL för registrering';
