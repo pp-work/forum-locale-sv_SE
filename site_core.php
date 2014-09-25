@@ -358,6 +358,8 @@ $Definition['Drag around and resize the square below to define your thumbnail ic
 
 $Definition['Earned'] = 'Intjänade';
 $Definition['Edit'] = 'Redigera';
+$Definition['edited %s'] = 'redigerad %s';
+$Definition['Edited by %s on %s.'] = 'Redigerad av %s %s.';
 $Definition['Edit Account'] = 'Redigera konto';
 $Definition['Edit Comment'] = 'Redigera inlägg';
 $Definition['Edit Discussion'] = 'Redigera tråd';
@@ -371,7 +373,7 @@ $Definition['Edit Thumbnail'] = 'Redigera miniatyrbild';
 $Definition['editor.WysiwygHelpText'] = 'Du använder <a href="https://en.wikipedia.org/wiki/WYSIWYG" target="_new">Wysiwyg</a> i ditt inlägg.';
 $Definition['editor.BBCodeHelpText'] = 'Du kan använda <a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a> i ditt inlägg.';
 $Definition['editor.HtmlHelpText'] = 'Du kan använda <a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a> i ditt inlägg.';
-$Definition['editor.MarkdownHelpText'] = 'Du kan använda <a href="http://en.support.wordpress.com/markdown-quick-reference/" target="_new">Markdown</a> i ditt inlägg.';
+$Definition['editor.MarkdownHelpText'] = 'Du kan använda <a href="http://en.support.wordpress.com/markdown-quick-reference/" target="_new">Markdown</a> i ditt inlägg. Skriver du @ framför ett användarnamn får personen en notifiering om inlägget.';
 $Definition['editor.TextHelpText'] = 'Du använder ren text i ditt inlägg.';
 $Definition['Eighth Anniversary'] = 'Åttonde årsdagen';
 $Definition['Email'] = 'E-post';
@@ -1025,7 +1027,7 @@ $Definition['Unknown'] = 'Okänd';
 $Definition['Unknown client: %s.'] = 'Okänd klient: %s.';
 $Definition['Unread'] = 'Oläst';
 $Definition['Unread Discussions'] = 'Olästa trådar';
-$Definition['Unsink'] = 'Höj';
+$Definition['Unsink'] = 'Sluta sänka';
 $Definition['Unspecified'] = 'Ospecifierad';
 $Definition['Upcoming Events'] = 'Kommande händelser';
 $Definition['Update'] = 'Uppdatera';
