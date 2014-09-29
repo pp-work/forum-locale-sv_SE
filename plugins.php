@@ -1,7 +1,7 @@
 <?php
 
 // Flagging
-$Definition[' a comment in'] = "en kommentar i";
+$Definition[' a comment in'] = " en kommentar i";
 $Definition['%s reported%s <strong>%s</strong>'] = "%s flaggade%s <strong>%s</strong>";
 $Definition['also reported this.'] = "flaggade också det här.";
 $Definition['Flag this!'] = "Flagga!";
@@ -10,10 +10,11 @@ $Definition['FlagDiscussion'] = "En tråd flaggades.";
 $Definition['FlagForReview'] = "Du är på väg att flagga det här för granskning av moderatorer. Om du är säker på att du vill göra detta, ange en kortfattad anledning och klicka på 'Flag this!'";
 $Definition['FlagLinkContent'] = "Länk till innehåll:";
 $Definition['FlaggedBy'] = "Flaggad av:";
+$Definition['Flagging queue counter'] = "%s i kö.";
 $Definition['FlagSent'] = 'Ditt klagomål har registrerats.';
 $Definition['Reason'] = "Anledning";
 $Definition['Your complaint has been registered.'] = "Ditt klagomål har registrerats.";
-$Definition['ViewFlagged'] = "isa &raquo;";
+$Definition['ViewFlagged'] = "Visa &raquo;";
 
 // Profile Extender
 $Definition['Profile Fields'] = 'Profilfält';
