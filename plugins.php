@@ -31,3 +31,7 @@ $Definition['%s wrote'] = '%s skrev';
 
 // VanillaInThisDiscussion
 $Definition['In this Discussion'] = 'I den här tråden';
+
+// Specific for PP theme
+$Definition['Click Post Discussion to post.'] = 'Klicka på Skicka tråd för att skicka.';
+$Definition['You cannot create a new discussion here.'] = 'Du kan inte skapa en tråd här.';
