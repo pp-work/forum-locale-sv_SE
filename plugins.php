@@ -2,18 +2,18 @@
 
 // Flagging
 $Definition[' a comment in'] = " en kommentar i";
-$Definition['%s reported%s <strong>%s</strong>'] = "%s flaggade%s <strong>%s</strong>";
-$Definition['also reported this.'] = "flaggade också det här.";
-$Definition['Flag this!'] = "Flagga!";
+$Definition['%s reported%s <strong>%s</strong>'] = "%s rapporterade%s <strong>%s</strong>";
+$Definition['also reported this.'] = "rapporterade också det här.";
+$Definition['Flag this!'] = "Rapportera";
 $Definition['FlagDiscuss'] = "Diskutera";
-$Definition['FlagDiscussion'] = "En tråd flaggades.";
-$Definition['FlagForReview'] = "Du är på väg att flagga det här för granskning av moderatorer. Om du är säker på att du vill göra detta, ange en kortfattad anledning och klicka på 'Flag this!'";
+$Definition['FlagDiscussion'] = "En tråd rapporterades.";
+$Definition['FlagForReview'] = "Du är på väg att rapportera det här för granskning av moderatorer. Om du är säker på att du vill göra detta, ange en kortfattad anledning och klicka på 'Rapportera'.";
 $Definition['FlagLinkContent'] = "Länk till innehåll:";
-$Definition['FlaggedBy'] = "Flaggad av:";
+$Definition['FlaggedBy'] = "Rapporterad av:";
 $Definition['Flagging queue counter'] = "%s i kö.";
-$Definition['FlagSent'] = 'Ditt klagomål har registrerats.';
+$Definition['FlagSent'] = 'Din rapportering har registrerats.';
 $Definition['Reason'] = "Anledning";
-$Definition['Your complaint has been registered.'] = "Ditt klagomål har registrerats.";
+$Definition['Your complaint has been registered.'] = "Din rapportering har registrerats.";
 $Definition['ViewFlagged'] = "Visa &raquo;";
 
 // Profile Extender

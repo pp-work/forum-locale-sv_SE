@@ -353,6 +353,7 @@ $Definition['Don\'t announce.'] = 'Klistra inte';
 $Definition["Don't fold quotes"] = "Minimera inte citat";
 $Definition['Don\'t have an account? %s'] = 'Inte registrerad än? %s';
 $Definition['Do you want to expire or delete this warning?'] = 'Vill du radera varningen eller låta den förfalla?';
+$Definition['Draft.Delete'] = 'Radera';
 $Definition['Draft saved at %s'] = 'Utkast sparat %s';
 $Definition['Drag around and resize the square below to define your thumbnail icon.'] = 'Dra och ändra ramen nedan för att beskära din ikon';
 
