@@ -471,7 +471,7 @@ $Definition['File Size'] = 'Filstorlek';
 $Definition['FileSize'] = 'FileSize';
 $Definition['First Anniversary'] = 'Första årsdagen';
 $Definition['First Comment'] = 'Första svar';
-$Definition['Flag'] = 'Flagga';
+$Definition['Flag'] = '<i class="fa fa-exclamation-triangle" title="Rapportera"></i>';
 $Definition['Follow'] = 'Följ';
 $Definition['Follow %s'] = 'Följ %s';
 $Definition['Followed by %d people'] = 'Följs av %d personer';
