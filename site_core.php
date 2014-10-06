@@ -238,7 +238,7 @@ $Definition['Bookmarks'] = 'Bokmärken';
 $Definition['bookmarks'] = 'bokmärken';
 $Definition['ButtonBar.BBCodeHelp'] = 'Du kan använda <b><a href="http://en.wikipedia.org/wiki/BBCode" target="_new">BBCode</a></b> i ditt inlägg.';
 $Definition['ButtonBar.HtmlHelp'] = 'Du kan använda <b><a href="http://htmlguide.drgrog.com/cheatsheet.php" target="_new">Simple Html</a></b> i ditt inlägg.';
-$Definition['ButtonBar.MarkdownHelp'] = 'Du kan använda <b><a href="http://en.support.wordpress.com/markdown-quick-reference/" target="_new">Markdown</a></b> i ditt inlägg.';
+$Definition['ButtonBar.MarkdownHelp'] = 'Du kan använda <b><a href="http://en.support.wordpress.com/markdown-quick-reference/" target="_new">Markdown</a></b> i ditt inlägg. Tryck Ctrl+Enter för att skicka.';
 $Definition['By'] = 'Av';
 $Definition['by'] = 'av';
 $Definition['by Date'] = 'efter datum';
@@ -1139,6 +1139,7 @@ $Definition['You do not have any conversations.'] = 'Du har inga konversationer'
 $Definition['You do not have any drafts.'] = 'Du har inga utkast.';
 $Definition['You do not have any notifications yet.'] = 'Du har inga notiser än.';
 $Definition['You do not have enough invitations left.'] = 'Du har inte tillräckligt många inbjudningar kvar.';
+$Definition['You do not have permission to start discussions in this category'] = 'Du har inte behörighet att skapa nya trådar i den här kategorin.';
 $Definition['You do not have permission to write new comments.'] = 'Du har inte behörighet att skriva nya svar.';
 $Definition['YouEarnedBadge'] = 'Du förvärvade detta emblem';
 $Definition['You have answered questions'] = 'Du har obesvarade frågor';
